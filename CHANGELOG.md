@@ -45,3 +45,9 @@
   - Updated source to Kendo UI Q3 2012 Release (2012.3.1114)
   - Added new and updated scripts and styles
   - Updated changelog
+
+## 0.0.9.1 (19 March 2013)
+
+  - Updated source to Kendo UI Q3 2012 Release (2012.3.1315)
+  - Updated jQuery from 1.8.2 to 1.8.3
+  - Updated changelog
